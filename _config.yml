@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Qiaoning Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Hello Qiaoning Zhang"
+  location         : "Michigan"
+  employer         : "University of Michigan"
   uri              : # URL
   email            : "none@example.org" 
 
