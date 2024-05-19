@@ -11,10 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Information, University of Michigan – Ann Arbor
-* M.S. in Industrial Engineering, University of Michigan – Ann Arbor
-* B.Eng in Industrial Engineering, Hunan University
+* Ph.D in Information, University of Michigan – Ann Arbor, 2023
+* M.S. in Industrial Engineering, University of Michigan – Ann Arbor, 2018
+* B.Eng in Industrial Engineering, Hunan University, 2016
 
+Publications
+======
+<u>Heavily-reviewed Journal Manuscripts (J)</u>
+  
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -40,12 +44,6 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
