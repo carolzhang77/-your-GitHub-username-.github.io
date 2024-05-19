@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Information, University of Michigan
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Information, University of Michigan – Ann Arbor
+* M.S. in Industrial Engineering with focus on Human Factors, University of Michigan – Ann Arbor
+* B.Eng in Industrial Engineering, Hunan University
 
 Work experience
 ======
